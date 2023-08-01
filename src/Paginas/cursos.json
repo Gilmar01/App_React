@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "curso": "Engenharia de Software",
+        "quantidade_alunos": 45
+    },
+    {
+        "id": 2,
+        "curso": "Ciência da Computação",
+        "quantidade_alunos": 45
+    },
+    {
+        "id": 3,
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "quantidade_alunos": 40
+    },
+    {
+        "id": 4,
+        "curso": "Sistemas de Informação",
+        "quantidade_alunos": 30
+    },
+    {
+        "id": 5,
+        "curso": "Engenharia da Computação",
+        "quantidade_alunos": 45
+    }
+]
